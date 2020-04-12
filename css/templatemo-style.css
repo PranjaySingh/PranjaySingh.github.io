@@ -1,10 +1,4 @@
-/*
 
-Ultra Profile
-
-https://templatemo.com/tm-464-ultra-profile
-
-*/
 
 body {
   background: #ffffff;
@@ -324,12 +318,12 @@ hr {
 
 /* START ABOUT */
 .tm-about {
-  background: url('../images/This%20Is%20Me.jpg');
+  background: url('../images/This%20is%20me.jpeg');
   background-size: cover;
   background-attachment: fixed;
   background-position: center center;
-  padding-top: 60px;
-  padding-bottom: 100px;
+  padding-top: 120px;
+  padding-bottom: 180px;
 }
 /* END ABOUT */
 
@@ -337,7 +331,7 @@ hr {
 
 .social-menu ul {
     text-align: center;
-    padding: 40px 0;
+    padding: 80px 0;
     margin: 0 auto;
     
     
@@ -379,7 +373,7 @@ hr {
 .tm-contact {
   text-align: center;
   padding-top: 80px;
-  padding-bottom: 40px;
+  padding-bottom: 20px;
 }
 .form-control {
   background: transparent;
@@ -408,7 +402,7 @@ input { height: 50px; }
 
 #footer {
     
-    padding: 0 20px;
+    padding: 20px 20px 0 20px;
 }
 .alignleft {
     float: left;
